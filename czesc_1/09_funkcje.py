@@ -5,7 +5,7 @@ def funkcja():
 funkcja()
 funkcja()
 funkcja()
-
+print('-'*10)
 # Funkcja zawsze coś zwraca
 # Plus zwracajmy uwagę na kolejność wykonania
 print(funkcja())

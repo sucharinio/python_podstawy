@@ -11,3 +11,4 @@ def sum_list(_to_sum = None):
 
 print(sum_list())
 print(sum_list([1, 2, 3, 4]))
+print(sum([1,2,3,4]))
